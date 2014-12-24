@@ -6,7 +6,6 @@ Name: Noname;
 Percent: 0
 Properties has been changed 24.12.2014 19:52:19
 
-New values:
 Money: 1;
 Name: ';
 Percent: 0
